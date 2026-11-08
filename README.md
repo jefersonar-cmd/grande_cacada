@@ -157,5 +157,4 @@ Este projeto foi possível através da união de diversas frentes de engenharia 
 - **WIE Runtime:** Criado e mantido por [Inseok Lee (dlunch)](https://github.com/dlunch/wie).
 - **SDL 3:** Biblioteca de mídia de alta performance criada pela comunidade [libsdl-org](https://github.com/libsdl-org/SDL).
 - **Unicorn Engine:** Framework de emulação de CPU mantido por [unicorn-engine](https://github.com/unicorn-engine/unicorn).
-- **KOG Studios:** Pela criação do universo inesquecível de Grand Chase.
 - **Equipe de Preservação Grand Chase Mobile:** Pelo trabalho de engenharia reversa, tradução, adaptação para PC e confecção dos instaladores.
