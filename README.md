@@ -33,7 +33,7 @@ Este projeto realizou a **engenharia reversa, descompilação e porte nativo** c
   <img src="images/gc1_story.png" width="300" alt="Grand Chase 1 - História em Português" />
 </div>
 
-Em **Grand Chase Mobile 1**, você assume o controle da destemida **Elesis Goodman**, herdeira dos lendários Cavaleiros Vermelhos de Serdin. Quando seu pai, Elscud Goodman, desaparece misteriosamente ao investigar os distúrbios em Canaban, Elesis parte em uma jornada épica pelo continente de Bermesiah.
+Em **Grand Chase Mobile 1**, você assume o controle da destemida **Elesis Sieghart**, herdeira dos lendários Cavaleiros Vermelhos de Serdin. Quando seu pai, Elscud Sieghart, desaparece misteriosamente ao investigar os distúrbios em Canaban, Elesis parte em uma jornada épica pelo continente de Bermesiah.
 
 - **Estilo RPG Clássico:** Explore vilas, castelos, masmorras e templos ancestrais, subindo de nível e aprimorando atributos de combate.
 - **Forja e Transmutação de Ônix:** Colete materiais de monstros para combinar equipamentos, armas de cavalaria e sintetizar ônix mágicos com o alquimista Noah.
